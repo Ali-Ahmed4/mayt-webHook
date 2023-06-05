@@ -1,0 +1,57 @@
+Script: 
+
+
+User: hi/hey/hello
+
+Bot : hi, welcome to TechOn. How may we help you today?
+1. Customer support
+2. Sales
+
+User: 1
+
+Bot: we'll connect you to support shortly.
+
+
+User :2
+Bot : sales will reach out to you.
+
+Bot: is there anything else I can do for you?
+1. Yes
+2. NO
+
+User : 1
+
+Bot: please type your query.
+User: enters the question.
+Bot : thanks we'll look into it.
+
+User: 2
+Bot: thanks for your time.
+
+
+
+{
+  "product_id": "a5b477e2-0df7-4968-8f77-ba3960ef662e",
+  "phone_id": 28592,
+  "message": {
+    "type": "text",
+    "text": "hi",
+    "id": "false_923212453466@c.us_6482464B0155FD48C7156B56DC5B9570",
+    "_serialized": "false_923212453466@c.us_6482464B0155FD48C7156B56DC5B9570",
+    "fromMe": false
+  },
+  "user": {
+    "id": "923212453466@c.us",
+    "name": "My Warid",
+    "phone": "923212453466",
+    "image": "https://pps.whatsapp.net/v/t61.24694-24/263795999_702930664402475_3677593457165369978_n.jpg?ccb=11-4&oh=01_AdQGWbJv4d3loZIzo_sgeeMJO53jN4E8xBvzeKBzojLRxw&oe=645C9779"
+  },
+  "conversation": "923212453466@c.us",
+  "conversation_name": "My Warid",
+  "receiver": "923262318054",
+  "timestamp": 1682929304,
+  "type": "message",
+  "reply": "https://api.maytapi.com/api/a5b477e2-0df7-4968-8f77-ba3960ef662e/28592/sendMessage",
+  "productId": "a5b477e2-0df7-4968-8f77-ba3960ef662e",
+  "phoneId": 28592
+}
